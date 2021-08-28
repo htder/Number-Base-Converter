@@ -7,7 +7,7 @@ then converts the number from its source base to base 10, then from base 10 to t
 
 Concepts learned include:
 
-* BigInterger
-* BigDecimal
-* String formatting
-* Program design
+- BigInterger
+- BigDecimal
+- String formatting
+- Program design
